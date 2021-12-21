@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700&display=swap');
+
+/*****************************************
+***************** COLORS *****************
+******************************************/
+
+:root {
+    --color-first: rgba(255,80,100,1);
+    --color-first-light: rgba(255,80,100,.8);
+    --color-first-verylight: rgba(255,80,100,.5);
+
+    --color-second: rgba(30, 70, 100, 1);
+    --color-second-light: rgba(30,70,100,.8);
+    --color-second-verylight: rgba(30,70,100,.5);
+
+    --color-third: rgba(255,165,0, 1);
+    --color-third--light: rgba(255,165,0, 0.8);
+    --color-third--verylight: rgba(255,165,0, 0.5);
+
+    --black: #000;
+    --gray-10: #212121;
+    --gray-9: #424242;
+    --gray-8: #616161;
+    --gray-7: #757575;
+    --gray-6: #9E9E9E;
+    --gray-5: #BDBDBD;
+    --gray-4: #E0E0E0;
+    --gray-3: #EEEEEE;
+    --gray-2: #F5F5F5;
+    --gray-1: #FAFAFA;
+    --white: #fff;
+
+    --color-success: #88c459;
+    --color-error: #f5414f;
+    --color-warning: #ffd137;
+}
